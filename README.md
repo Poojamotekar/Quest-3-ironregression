@@ -48,7 +48,7 @@ Upon observation, it becomes evident that costly homes are mostly situated near 
 Additionally, it is notable that the pricier homes tend to be located further north compared to the most affordable ones. Thus we can add ‘latitude’ in our predictor variables candidates’ set.
 
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/ce8d8a59-7f98-411e-83c6-0e39892cbc0a)
-# Bedrooms and Bathrooms![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/6ec94d9d-ee39-4142-8233-4f2c4d48ba38)
+# Bedrooms and Bathrooms
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/410e9de7-7515-4111-9a94-ee3bd7dc2163) ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/008920d8-9ad8-416c-b150-f1656eec6dae)
 # Linear model, Ridge Regression, Lasso Regression
 
