@@ -37,7 +37,7 @@ These houses have simple construction and design so it is difficult for them to 
 You can see that generally there has been an increase in the number of houses built over time, followed by around 3 to 5 years of decrease but there are notable declines in the 1930s and 1970s.
 The decrease in the number of houses constructed during the 1930sis probably connected to the Great Depression that commenced with the 1929 Wall Street Crash.
 In the 1970s, the presence of the Cold War and Vietnam War, as well as an oil crisis in 1973, could have all played a part in the decline of house construction during that era.
-# Waterfront![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/b8654b63-c3d7-4792-a916-ce2081c9022f)
+# Waterfront
 The boxplot shows that the houses with waterfront attract more price than the houses without a waterfront.
 
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/9f008720-0442-4f5e-8227-e94fe1cc0b1e)
