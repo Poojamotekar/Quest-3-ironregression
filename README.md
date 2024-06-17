@@ -53,9 +53,9 @@ Additionally, it is notable that the pricier homes tend to be located further no
 # Linear model, Ridge Regression, Lasso Regression
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/91a156b0-7878-4f38-ad0c-65338b92e1c9) ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/6ab340b8-63a0-462d-94b1-c941eec2480d)
 ### Metrics:
-<div>![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/1e247ef5-75ec-4c16-a598-c05f0cce62cc)
+![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/1e247ef5-75ec-4c16-a598-c05f0cce62cc)
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/92dc9586-3073-4321-96f6-205f4de22adf)
-![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/00fe2de5-a94b-4f64-90cb-0d04e3949015) </div>
+![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/00fe2de5-a94b-4f64-90cb-0d04e3949015)
 
 
 
