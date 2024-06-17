@@ -59,6 +59,27 @@ Additionally, it is notable that the pricier homes tend to be located further no
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/1e247ef5-75ec-4c16-a598-c05f0cce62cc)
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/92dc9586-3073-4321-96f6-205f4de22adf)
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/00fe2de5-a94b-4f64-90cb-0d04e3949015)
+# Random Forest and XGBoost:
+### Metrics:
+![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/a6662030-8204-44a1-b677-510aa3a45f12)
+![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/173d8308-ec4d-48f0-89a1-99fafc1e2114)
+![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/d212db67-9721-473d-b48d-24c06c3a2b8a)
+# Comparision
+![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/bc582102-c7b9-4211-b683-3b4bebda8d17)
+R-squared (R²):
+Linear Models: All three linear models (Linear Regression, Ridge, and Lasso) have similar R² values (0.692), indicating that they explain around 69.2% of the variance in the house prices.
+Random Forest: This model has a much higher R² of 0.864, explaining 86.4% of the variance.
+XGBoost: This model has the highest R² of 0.876, explaining 87.6% of the variance.
+
+# Feature Importances
+![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/9617e435-e2a7-408a-b422-f08cb0881223)
+
+
+
+
+
+
+
 
 
 
