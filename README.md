@@ -28,6 +28,10 @@ Majority of the houses are under 4,000sqft and under $2M.
 Grade : shows a positive correlation with price; houses with a higher grade tends to cost more.
  Houses with grade equal to or less than 6 do not have many outliers.
 These houses have simple construction and design so it is difficult for them to be priced higher.
+![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/6579e253-649e-4d4b-9b80-6e0c0fa762fa)
+![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/b29849af-ab5f-479e-81fa-ff848d29f68a)
+
+
 # Year Built
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/2269321c-fd64-4b86-8aac-4fffa1d6f71e) ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/c1ed18a4-d4b0-4f23-8148-04988549683d)
 You can see that generally there has been an increase in the number of houses built over time, followed by around 3 to 5 years of decrease but there are notable declines in the 1930s and 1970s.
