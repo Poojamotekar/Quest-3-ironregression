@@ -51,8 +51,11 @@ Additionally, it is notable that the pricier homes tend to be located further no
 # Bedrooms and Bathrooms![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/6ec94d9d-ee39-4142-8233-4f2c4d48ba38)
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/410e9de7-7515-4111-9a94-ee3bd7dc2163) ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/008920d8-9ad8-416c-b150-f1656eec6dae)
 # Linear model, Ridge Regression, Lasso Regression
-![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/91a156b0-7878-4f38-ad0c-65338b92e1c9) ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/6ab340b8-63a0-462d-94b1-c941eec2480d)
+
+![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/91a156b0-7878-4f38-ad0c-65338b92e1c9) 
+![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/6ab340b8-63a0-462d-94b1-c941eec2480d)
 ### Metrics:
+
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/1e247ef5-75ec-4c16-a598-c05f0cce62cc)
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/92dc9586-3073-4321-96f6-205f4de22adf)
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/00fe2de5-a94b-4f64-90cb-0d04e3949015)
