@@ -41,7 +41,9 @@ In the 1970s, the presence of the Cold War and Vietnam War, as well as an oil cr
 The boxplot shows that the houses with waterfront attract more price than the houses without a waterfront.
 
 ![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/9f008720-0442-4f5e-8227-e94fe1cc0b1e)
-# Latitude and Longitude![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/1f9392ab-d4b7-44b3-ad0c-d4a532f4ad70)
+# Latitude and Longitude![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/67520109-7a48-4e36-9484-7349e0cd49af)![image](https://github.com/Poojamotekar/Quest-3-ironregression/assets/66488693/d32ad23e-0b65-4cb7-a079-528d40b02705)
+
+
 Upon observation, it becomes evident that costly homes are mostly situated near bodies of water, while less expensive ones are more inland
 Additionally, it is notable that the pricier homes tend to be located further north compared to the most affordable ones. Thus we can add ‘latitude’ in our predictor variables candidates’ set.
 
